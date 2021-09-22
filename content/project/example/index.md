@@ -1,12 +1,12 @@
 ---
-title: Coming Soon!
-summary: Nothing to see here yet!
+title: Just How do Deaths Due to COVID-19 Stack Up?
+summary: Putting COVID-19 into perspective
 # tags:
 # - Deep Learning
 date: "2021-09-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-# external_link: "https://www.exemplars.health/emerging-topics/ecr"
+external_link: "https://www.thinkglobalhealth.org/article/just-how-do-deaths-due-covid-19-stack"
 
 # image:
 #  caption: Photo by rawpixel on Unsplash
@@ -30,4 +30,4 @@ url_video: ""
 # slides: example
 ---
 
-## Coming soon!
+## Check out my post on Think Global Health!
