@@ -42,7 +42,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Open Access
- - url: https://www.sciencedirect.com/science/article/pii/S1473309917302761
+   url: https://www.sciencedirect.com/science/article/pii/S1473309917302761
 
 url_pdf: ''
 url_code: ''
