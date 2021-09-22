@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Estimates of global, regional, and national morbidity, mortality, and aetiologies of diarrhoeal diseases: a systematic analysis for the Global Burden of Disease Study 2015"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -29,7 +29,7 @@ publication_types: ["2"]
 publication: In *The Lancet Infectious Diseases*
 # publication_short: In *ICW*
 
-The Global Burden of Diseases, Injuries, and Risk Factors Study 2015 (GBD 2015) provides an up-to-date analysis of the burden of diarrhoeal diseases. This study assesses cases, deaths, and aetiologies spanning the past 25 years and informs the changing picture of diarrhoeal disease worldwide.
+abstract: The Global Burden of Diseases, Injuries, and Risk Factors Study 2015 (GBD 2015) provides an up-to-date analysis of the burden of diarrhoeal diseases. This study assesses cases, deaths, and aetiologies spanning the past 25 years and informs the changing picture of diarrhoeal disease worldwide.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -40,9 +40,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-#links:
-# - name: Open Access
-#   url: https://www.sciencedirect.com/science/article/pii/S1473309917302761
+links:
+ - name: Open Access
+   url: https://www.sciencedirect.com/science/article/pii/S1473309917302761
 
 url_pdf: ''
 url_code: ''
