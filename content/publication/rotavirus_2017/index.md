@@ -31,13 +31,7 @@ publication_types: ["2"]
 publication: In *JAMA Pediatrics*
 # publication_short: In *ICW*
 
-abstract: What is the extent of rotavirus infection among children younger than 5 years, and how has the rotavirus vaccine reduced 
-this global burden?This report of the Global Burden of Disease and several extended analyses on rotavirus and results of rotavirus 
-vaccination found that rotavirus infection caused 128 500 deaths and 258 173 300 episodes of diarrhea among children younger 
-than 5 years in 2016. The rotavirus vaccine is estimated to have averted approximately 28 000 deaths in 2016, 
-and approximately 83 200 additional children could have been saved had full vaccine coverage been achieved that year. Prioritizing 
-the introduction of the rotavirus vaccine and interventions to reduce diarrhea-associated morbidity and mortality are necessary in 
-the continued reduction of the global rotavirus burden.
+abstract: What is the extent of rotavirus infection among children younger than 5 years, and how has the rotavirus vaccine reduced this global burden? This report of the Global Burden of Disease and several extended analyses on rotavirus and results of rotavirus vaccination found that rotavirus infection caused 128 500 deaths and 258 173 300 episodes of diarrhea among children younger than 5 years in 2016. The rotavirus vaccine is estimated to have averted approximately 28 000 deaths in 2016, and approximately 83 200 additional children could have been saved had full vaccine coverage been achieved that year. Prioritizing the introduction of the rotavirus vaccine and interventions to reduce diarrhea-associated morbidity and mortality are necessary in the continued reduction of the global rotavirus burden.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
