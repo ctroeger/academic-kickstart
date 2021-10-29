@@ -32,10 +32,10 @@ authors:
 - admin
 
 tags:
-- Academic
+- Gates Ventures
 
 categories:
-- Demo
+- 
 ---
 
 ## Maintenance of Essential Health Services
