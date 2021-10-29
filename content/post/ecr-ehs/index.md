@@ -1,5 +1,5 @@
 ---
-title: [Exemplars in COVID-19 Response](https://www.exemplars.health/emerging-topics/epidemic-preparedness-and-response/essential-health-services)
+title: Exemplars in COVID-19 Response
 subtitle: Maintaining access to essential health services
 
 # Summary for listings and search engines
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: 'EHS Banner'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -38,7 +38,7 @@ categories:
 - 
 ---
 
-## Maintenance of Essential Health Services
+## [Maintenance of Essential Health Services](https://www.exemplars.health/emerging-topics/epidemic-preparedness-and-response/essential-health-services)
 
 The COVID-19 pandemic and non-pharmaceutical policies to restrict movement to limit its spread has decreased both the supply of and demand for essential health
 services like maternal and child health, outpatient visits, childhood vaccinations, and diagnostic screenings for non-communicable diseases.
