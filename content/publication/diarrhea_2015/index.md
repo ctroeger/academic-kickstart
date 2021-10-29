@@ -37,7 +37,7 @@ abstract: The Global Burden of Diseases, Injuries, and Risk Factors Study 2015 (
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:

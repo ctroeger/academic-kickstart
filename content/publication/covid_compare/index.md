@@ -39,7 +39,7 @@ abstract: Forecasts and alternative scenarios of COVID-19 mortality have been cr
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
