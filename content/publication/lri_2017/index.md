@@ -35,7 +35,7 @@ abstract: Despite large reductions in under-5 lower respiratory infection (LRI) 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:

@@ -36,7 +36,7 @@ abstract: Many countries have shown marked declines in diarrhoeal disease mortal
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
