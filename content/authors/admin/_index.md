@@ -14,12 +14,13 @@ organizations:
   url: https://www.washington.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include global health.
+bio: Global health researcher and advocate.
 
 # Interests to show in About widget
 interests:
-- Infectious diseases
-- Childhood growth
+- Infectious disease epidemiology
+- Childhood growth and development
+- Vulnerability to infectious diseases
 - Climate and environment
 - Public health policy
 
