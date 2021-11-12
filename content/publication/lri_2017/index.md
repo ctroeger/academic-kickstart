@@ -5,6 +5,7 @@ title: "Quantifying risks and interventions that have affected the burden of low
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- admin
 - GBD 2017 Lower Respiratory Infection Collaborators
 
 # Author notes (optional)
