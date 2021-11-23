@@ -9,13 +9,13 @@ summary: COVID-19 vaccine delivery
 projects: []
 
 # Date published
-date: "2021-09-22T00:00:00Z"
+date: "2021-11-22T00:00:00Z"
 
 # Date updated
-lastmod: "2021-09-22T00:00:00Z"
+lastmod: "2021-11-23T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'GBD Compare'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: false
@@ -32,20 +32,26 @@ authors:
 - admin
 
 tags:
-- Global Burden of Disease
+- COVID-19 Projections
 
 categories:
 - 
 ---
 
-## [Global Burden of Disease Study](https://vizhub.healthdata.org/gbd-compare/)
+This figure shows the number of days since the first COVID-19 vaccine doses were delivered until all people who
+self-report willingness to be vaccinated have been vaccinated by location. High-income locations were included
+as the model is intended to represent the scale-up without major supply constraints (the "expected" scale-up).
+There is a clear sigmoid pattern where vaccinations are slow to scale up, rapidly reach many individuals at their peak rate, then slow down
+as the vaccination campaigns make effort to reach all willing people who may not live in cities or have less
+access or enthusiasm for vaccination. Rates are generally faster in the United States (many locations above the 
+purple line) and a bit slower to start in Europe (many locations below the purple line). 
 
-The Global Burden of Disease Study is a systematic, scientific effort to quantify the sources of health loss globally including
-diseases, injuries, and risk factors. Everyone deserves to live a long life in full health and the GBD helps to create a 
-comprehensive understanding of disease burden across countries, time, age, and sex. 
+## [IHME COVID-19 Projections](https://covid19.healthdata.org/united-states-of-america?view=cumulative-deaths&tab=trend)
 
-The GBD is updated regularly. For three and a half iterations of the study (2015, 2016, 2017, 2019), I was a research scientist
-responsible for statistical modeling of the burden of diarrheal diseases and lower respiratory infections. These are two of the 
-leading causes of preventable deaths worldwide, especially among children younger than 5 years. My hope is that the evidence
-generated from the GBD may help to target interventions and actions to help reduce under 5 mortality and give all children
-a chance to develop to their full potential. 
+As part of the Institute for Health Metrics and Evaluation (IHME) COVID-19 Projections, I helped to develop a model for estimating
+the scale-up of vaccine delivery. The model is a mixed-effects spline regression representing the time from the first COVID-19
+vaccine doses delivered in a given country or state (United States) until all people who are willing to be vaccinated in that
+location are vaccinated. The number of people who have received any vaccination are from [Our World in Data](https://ourworldindata.org/covid-vaccinations) and the number of people
+who are willing to be vaccinated are from the [Facebook COVID-19 Trends and Impacts Survey](https://dataforgood.facebook.com/dfg/tools/covid-19-trends-and-impact-survey).
+The results of this model are used in projecting the infections, hospitalizations, and deaths for the [IHME COVID-19 Projections SEIR model](http://www.healthdata.org/covid/faqs).
+
